@@ -236,8 +236,8 @@ body {
 }
 
 .item-our-team{
-    padding-top: 32px;
-    padding-bottom: 32px;
+    margin-top: 32px;
+    margin-bottom: 32px;
 }
 .team-list {
     display: flex;
