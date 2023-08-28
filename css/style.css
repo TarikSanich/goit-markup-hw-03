@@ -90,6 +90,10 @@ body {
     display: flex;
     column-gap: 42px;
 }
+.item-nav {
+    display: flex;
+    gap: 40px;
+}
 
 .nav {
     display: flex;
