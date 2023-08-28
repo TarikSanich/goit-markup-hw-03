@@ -143,6 +143,8 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     margin-right: 76px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .menu-link:hover,
