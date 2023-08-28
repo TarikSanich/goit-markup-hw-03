@@ -236,8 +236,8 @@ body {
 }
 
 .item-our-team{
-    margin-top: 32px;
-    margin-bottom: 32px;
+    pading-top: 32px;
+    pading-bottom: 32px;
 }
 .team-list {
     display: flex;
@@ -252,8 +252,8 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
-    padding-bottom: 8px;
-    padding-top: 32px;
+    margin-bottom: 8px;
+    margin-top: 32px;
 }
 
 .title-team-item {
@@ -321,6 +321,12 @@ body {
     letter-spacing: 0.02em;
     padding-left: 16px;
     padding-bottom: 32px;
+}
+.item-our-portfolio {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px;
 }
 
 /* footer */
