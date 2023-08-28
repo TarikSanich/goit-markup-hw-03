@@ -127,6 +127,10 @@ body {
 }
 
 /* Hero */
+.section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
 .section-hero {
     background: var(--navyblue, #2e2f42);
 }
@@ -161,6 +165,9 @@ body {
 }
 
 /* Our Team */
+
+
+
 .section-team {
     background-color: #f4f4fd;
 }
