@@ -81,7 +81,7 @@ body {
 
 .menu {
     display: flex;
-    column-gap: 40px;
+    gap: 40px;
     padding-top: 24px;
     padding-bottom: 24px;
 }
@@ -93,6 +93,18 @@ body {
 .item-nav {
     display: flex;
     gap: 40px;
+    margin-right: 40px;
+}
+.item-nav:last-child {
+    margin-right: 0;
+}
+.item-address {
+    display: flex;
+    gap: 40px;
+    margin-right: 40px;
+}
+.item-address:last-child {
+    margin-right: 0;
 }
 
 .nav {
@@ -236,8 +248,8 @@ body {
 }
 
 .item-our-team{
-    pading-top: 32px;
-    pading-bottom: 32px;
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 .team-list {
     display: flex;
